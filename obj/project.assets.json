@@ -2747,11 +2747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giuse\\Phoenix Networking Academy\\Data Management - Documents\\Progetti\\C#\\ProductApi\\ProductApi.csproj",
+      "projectUniqueName": "C:\\Users\\giuse\\Phoenix Networking Academy\\Data Management - Documents\\Corsi di Formazione\\17) Corso C#\\Swagger PoC\\ProductApi.csproj",
       "projectName": "ProductApi",
-      "projectPath": "C:\\Users\\giuse\\Phoenix Networking Academy\\Data Management - Documents\\Progetti\\C#\\ProductApi\\ProductApi.csproj",
+      "projectPath": "C:\\Users\\giuse\\Phoenix Networking Academy\\Data Management - Documents\\Corsi di Formazione\\17) Corso C#\\Swagger PoC\\ProductApi.csproj",
       "packagesPath": "C:\\Users\\giuse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giuse\\Phoenix Networking Academy\\Data Management - Documents\\Progetti\\C#\\ProductApi\\obj\\",
+      "outputPath": "C:\\Users\\giuse\\Phoenix Networking Academy\\Data Management - Documents\\Corsi di Formazione\\17) Corso C#\\Swagger PoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giuse\\AppData\\Roaming\\NuGet\\NuGet.Config"
